@@ -1,0 +1,38 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1695138434
+icon.svg::CompressedTexture2D::4485542025022422910::1695047999::1695048616::1::::<><>::
+world.tscn::PackedScene::1316192529749999156::1695138272::0::1::::<><>::uid://cqmk7v5i2qxuv::::res://World/Bush.png<>res://Player/Player.gd<>uid://dfndpbs1n11he::::res://Player/Player.png
+::res://Effects/::1695048625
+EnemyDeathEffect.png::CompressedTexture2D::7328916677749395468::1695048625::1695048625::1::::<><>::
+GrassEffect.png::CompressedTexture2D::7373483212502836379::1695048625::1695048625::1::::<><>::
+HitEffect.png::CompressedTexture2D::7738522887047434011::1695048625::1695048625::1::::<><>::
+::res://Enemies/::1695048625
+Bat.png::CompressedTexture2D::8832672908379804410::1695048625::1695048625::1::::<><>::
+::res://Music and Sounds/::1695048625
+EnemyDie.wav::AudioStreamWAV::7352253727011561949::1695048625::1695048625::1::::<><>::
+Evade.wav::AudioStreamWAV::1277511523254387834::1695048625::1695048625::1::::<><>::
+Hit.wav::AudioStreamWAV::6208585474002385111::1695048625::1695048625::1::::<><>::
+Hurt.wav::AudioStreamWAV::6657396228493570761::1695048625::1695048625::1::::<><>::
+Menu Move.wav::AudioStreamWAV::6331671635554894083::1695048625::1695048625::1::::<><>::
+Menu Select.wav::AudioStreamWAV::7405456695013000741::1695048625::1695048625::1::::<><>::
+Music.mp3::AudioStreamMP3::4112385289108942523::1695048625::1695048625::1::::<><>::
+Pause.wav::AudioStreamWAV::4666910649993841690::1695048625::1695048625::1::::<><>::
+Swipe.wav::AudioStreamWAV::4751728477875289828::1695048625::1695048625::1::::<><>::
+Unpause.wav::AudioStreamWAV::3782369558940223594::1695048625::1695048625::1::::<><>::
+::res://Player/::1695138246
+Player.gd::GDScript::-1::1695138246::0::1::::<>CharacterBody2D<>::
+Player.png::CompressedTexture2D::7537252199488690234::1695048625::1695048625::1::::<><>::
+::res://Shadows/::1695048625
+LargeShadow.png::CompressedTexture2D::7368047320612893756::1695048625::1695048625::1::::<><>::
+MediumShadow.png::CompressedTexture2D::2517294019279813332::1695048625::1695048625::1::::<><>::
+SmallShadow.png::CompressedTexture2D::6191419519548095592::1695048625::1695048625::1::::<><>::
+::res://UI/::1695048625
+HeartUIEmpty.png::CompressedTexture2D::2767691681006003378::1695048625::1695048625::1::::<><>::
+HeartUIFull.png::CompressedTexture2D::4528418666395958856::1695048625::1695048625::1::::<><>::
+::res://World/::1695048625
+Bush.png::CompressedTexture2D::5921300863710765001::1695048625::1695048625::1::::<><>::
+CliffTileset.png::CompressedTexture2D::9132939111986426475::1695048625::1695048625::1::::<><>::
+DirtTileset.png::CompressedTexture2D::2311070934732621930::1695048625::1695048625::1::::<><>::
+Grass.png::CompressedTexture2D::4480909803603782795::1695048625::1695048625::1::::<><>::
+GrassBackground.png::CompressedTexture2D::52002386720144530::1695048625::1695048625::1::::<><>::
+Tree.png::CompressedTexture2D::2851521808254637453::1695048625::1695048625::1::::<><>::
